@@ -1,0 +1,1 @@
+C:\Users\negr\Desktop\driver-master\kernel-driver\x64\Release\kernel-driver.sys

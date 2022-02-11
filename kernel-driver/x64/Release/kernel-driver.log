@@ -1,0 +1,7 @@
+﻿  Building 'kernel-driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+C:\Users\negr\Desktop\driver-master\kernel-driver\memory.h(77,61): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\negr\Desktop\driver-master\kernel-driver\main.cpp(11,63): warning C4244: 'argument': conversion from 'ULONGLONG' to 'ULONG', possible loss of data
+  kernel-driver.vcxproj -> C:\Users\negr\Desktop\driver-master\kernel-driver\x64\Release\kernel-driver.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
